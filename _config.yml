@@ -2,8 +2,8 @@ title: David Cook's Blog
 email: divergentdave@gmail.com
 description: >-
   David Cook's blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://davidsherenowitsa.party"
 twitter_username: divergentdave
 github_username:  divergentdave
 
