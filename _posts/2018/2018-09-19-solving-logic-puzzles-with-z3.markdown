@@ -1,8 +1,9 @@
 ---
-layout: "post"
-title: "Solving Logic Puzzles with Z3"
-date: "2018-08-19 19:57"
+layout: post
+title: Solving Logic Puzzles with Z3
+date: '2018-09-19 00:15'
 ---
+
 I've been attending [Puzzled Pint][puzzled-pint] events for the past year or so with a group of friends. These events are akin to pub trivia, except with puzzles, and they're great fun. Two months ago, one of the puzzles was [a classic logic grid puzzle set in a game of Texas Hold 'Em][casino]. The organizers rated this puzzle as the most difficult that month; it took some effort, but we did solve it without hints.
 
 ![Poker logic puzzle from Puzzled Pint June 2018]({{ "/assets/logic_puzzle_screenshot.png" | absolute_url }})
